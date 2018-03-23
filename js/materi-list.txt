@@ -1,0 +1,40 @@
+#Intro
+- Apa itu Javascript, Kenapa Javacsript?
+- Output & Komentar (innerText, innerHTML, console, alert)
+- Variable
+- Tipe data string (toUppercase, toLowerCase, length)
+- Dialog Box (Prompt, Confirm)
+- Operator
+
+	String (+)
+	Typeof
+	Penugasan (=)
+	Aritmatika : penulisan singkat (+=, *=)
+	Increment/Decrement
+
+	Perbandingan (==, ===)
+	Logika (&&, ||, !)
+	Ternary/Kondisi
+
+#Pengkondisian
+	If else
+	Else if
+
+#Perulangan
+	While
+	For
+
+#Array
+- Membuat Array = []
+- Multidimensi 
+- Mengakses elemen pada array
+- Menghitung jumlah isi array (length)
+- Tampilkan Array satu persatu: (For)
+
+- document.getElementById: tampilkan kedalam HTML
+
+#Manipulasi Array
+- Menambah, Mengubah, Menghapus: (manual)
+- Method Join
+- Metode Array
+Push, Pop, Unshift, Shift
